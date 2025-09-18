@@ -58,5 +58,8 @@ Elite-Body-AI-Chatbot is a Streamlit web app that answers questions about Elite 
  bash
  streamlit run app.py
 
+## License
+
+MIT License
 
  
