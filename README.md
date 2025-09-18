@@ -35,24 +35,27 @@ Elite-Body-AI-Chatbot is a Streamlit web app that answers questions about Elite 
 
  Git installed (optional, but recommended)
 
- A. Step-by-step instructions
+ # A. Step-by-step instructions
  Clone/download the repo:
  git clone https://github.com/<Mrud11>/elitebody-chatbot.git
  cd elitebody-chatbot
 
- B. Create and activate a Python virtual environment (recommended):
+ # B. Create and activate a Python virtual environment (recommended):
  python -m venv venv
  venv\Scripts\activate
 
- C. Install dependencies:
+ # C. Install dependencies:
 
- // bash
+  bash
  pip install --upgrade pip
  pip install -r requirements.txt
 
- D. Run the Streamlit app:
 
- // bash
+### Installation
+
+ # D. Run the Streamlit app:
+
+ bash
  streamlit run app.py
 
 
