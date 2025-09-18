@@ -61,8 +61,8 @@ Elite-Body-AI-Chatbot is a Streamlit web app that answers questions about Elite 
 MIT License
 
 ## Screenshot Images
-![Alt text]()
-![Alt text]()
+![Alt text](https://github.com/Mrud11/Elite-Body-AI-Chatbot/blob/main/b2.PNG)
+![Alt text](https://github.com/Mrud11/Elite-Body-AI-Chatbot/blob/main/b3.PNG)
 ![Alt text]()
 
 
